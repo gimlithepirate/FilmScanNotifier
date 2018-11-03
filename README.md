@@ -13,3 +13,8 @@ Once you have made the modification and installed the AutoHotKey software, all y
 If you want to modify this software to work with other scanning software, you will need to use the AutoHotKey window spy to see what the name data for the equivalant "Progress Window" is. You can then modify the code accordingly.
 
 Share and Enjoy!
+
+
+Acknowledgements:
+The code for pushing from AHK to Pushbullet is from here: https://autohotkey.com/boards/viewtopic.php?t=4842
+Also a good place to check if you are having issues with pushbullet for troubleshooting.
