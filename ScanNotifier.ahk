@@ -1,4 +1,4 @@
-PB_Token := "o.n3HraAmoSynQsMrNAVMoTiZzEKpLlare"
+PB_Token := "InsertTokenHere"
 PB_Title := "Epson Scan Status"
 PB_Message := "Film Scan Complete"
 ; MsgBox % PB_PushNote(PB_Token, PB_Title, PB_Message)
